@@ -1,0 +1,6 @@
+{
+  "name": "タイムレコーダー・出退勤管理システム",
+  "description": "従業員20名向けワンタップ出退勤打刻・誤打刻修正・残業時間集計＆Excel出力システム",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
